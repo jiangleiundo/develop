@@ -2,7 +2,7 @@
 1. 蓝灯（win/ios/android）
 2. typecho
 3. 7zip
-4. buwp-p2p
+4. bdwp-p2p
 5. dotNET4.5
 6. IDE主题（phpstrom/webstrom/sublime）
 7. markdownpad2
