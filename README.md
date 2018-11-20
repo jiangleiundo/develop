@@ -17,3 +17,4 @@
 16. PanDownload
 17. Navicat-Premium-x64
 18. Subime Text3带插件
+19. SQLyog 快速而简洁的图形化管理MYSQL数据库的工具
