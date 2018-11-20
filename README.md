@@ -15,3 +15,4 @@
 14. win7 psd缩略图
 15. WordPress 中文
 16. PanDownload
+17. Navicat-Premium-x64
