@@ -16,3 +16,4 @@
 15. WordPress 中文
 16. PanDownload
 17. Navicat-Premium-x64
+18. Subime Text3带插件
