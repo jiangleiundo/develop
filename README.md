@@ -1,25 +1,29 @@
-## 小工具
+---
+title: 小工具
+---
 
 1. 度盘下载器
-1. 蓝灯（win/ios/android）
-2. typecho
-3. 7zip
-4. calibre电子书阅读器
-5. dotNET4.5
-6. Neat Reader
-6. IDE主题（phpstrom/webstrom/sublime）
-7. markdownpad2
-8. colorPicker
-9. Navicat-Premium
-9. node
-10. PanDownload
-10. postman
-11. potplayer
-12. SETUNA
-13. SQLyog 快速而简洁的图形化管理MYSQL数据库的工具
-14. Subime Text3带插件
-15. SumatraPDF阅读器
-13. Touchpad_Elantech
-14. win7 psd缩略图
-15. WordPress 中文
-16. 百度阅读器
+2. 蓝灯（win/ios/android）
+3. typecho
+4. 7zip
+5. calibre电子书阅读器
+6. dotNET4.5
+7. Neat Reader
+8. IDE主题（phpstrom/webstrom/sublime）
+9. markdownpad2
+10. colorPicker
+11. Navicat-Premium
+12. node
+13. PanDownload
+14. postman
+15. potplayer
+16. SETUNA
+17. SQLyog 快速而简洁的图形化管理MYSQL数据库的工具
+18. Subime Text3带插件
+19. SumatraPDF阅读器
+20. Touchpad_Elantech
+21. typora
+22. vuedevtools
+23. win7 psd缩略图
+24. WordPress 中文
+25. 百度阅读器
