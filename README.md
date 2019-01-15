@@ -25,5 +25,6 @@ title: 小工具
 21. typora
 22. vuedevtools
 23. win7 psd缩略图
-24. WordPress 中文
-25. 百度阅读器
+24. win32-x64-64_binding.node
+25. WordPress 中文
+26. 百度阅读器
