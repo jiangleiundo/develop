@@ -14,17 +14,17 @@ title: 小工具
 10. colorPicker
 11. Navicat-Premium
 12. node
-13. PanDownload
-14. postman
-15. potplayer
-16. SETUNA
-17. SQLyog 快速而简洁的图形化管理MYSQL数据库的工具
-18. Subime Text3带插件
-19. SumatraPDF阅读器
-20. Touchpad_Elantech
-21. typora
-22. vuedevtools
-23. win7 psd缩略图
-24. win32-x64-64_binding.node
+13. node-sass本地安装
+14. PanDownload
+15. postman
+16. potplayer
+17. SETUNA
+18. SQLyog 快速而简洁的图形化管理MYSQL数据库的工具
+19. Subime Text3带插件
+20. SumatraPDF阅读器
+21. Touchpad_Elantech
+22. typora
+23. vuedevtools
+24. win7 psd缩略图
 25. WordPress 中文
 26. 百度阅读器
